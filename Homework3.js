@@ -227,10 +227,12 @@ function decimal() {
 
 function pi() {
     screen1.innerText = Math.PI;
+    isEqual == true;
 }
 
 function e() {
     screen1.innerText = Math.E;
+    isEqual = true;
 }
 
 function del() {
