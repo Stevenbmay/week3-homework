@@ -96,7 +96,7 @@ function partEqual() {
     if (mod2 == "power") {
         screen2.innerText = num1 ** num2 + mod1;
     }
-    screen1.innerText = "";
+    screen1.innerText = "0";
 }
 
 function equals() {
